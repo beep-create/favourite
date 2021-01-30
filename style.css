@@ -1,0 +1,38 @@
+body {
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+h1 {
+    text-shadow: 2px;
+    font-size: 20px;
+    font-family:  sans-serif; 
+}
+
+p {
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+img {
+    height: 718px;
+    width: 900px;
+}
+#gravity {
+    font-family: <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">;
+    
+}
+ 
+#overview {
+    font-family: <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">;
+    
+}
+
+#gravity:hover {
+    background-color:darkslategray
+}
+html {
+    scroll-behavior: smooth
+}
