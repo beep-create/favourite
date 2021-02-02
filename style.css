@@ -15,8 +15,8 @@ p {
     text-align: center;
 }
 img {
-    height: 718px;
-    width: 900px;
+    height: 500px;
+    width: 800px;
 }
 #gravity {
     font-family: <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -36,3 +36,11 @@ img {
 html {
     scroll-behavior: smooth
 }
+.menu {
+    list-style: none;
+    font-family: inherit;
+    position: fixed;
+    top: 2px;
+    z-index: 10;
+    background: white;
+    width: 100%;
